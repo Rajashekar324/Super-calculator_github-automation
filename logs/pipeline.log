@@ -1,0 +1,35 @@
+2026-02-16 14:27:52,171 - INFO - Pipeline started
+2026-02-16 14:27:52,171 - INFO - RUN: C:\Users\RAJASHEKAR\OneDrive\Documents\CapG_Training\Python\PT Day 15\super_calculator_ci_cd_automation_master\venv\Scripts\python.exe -m pip install -r requirements.txt
+2026-02-16 14:27:59,885 - INFO - RUN: C:\Users\RAJASHEKAR\OneDrive\Documents\CapG_Training\Python\PT Day 15\super_calculator_ci_cd_automation_master\venv\Scripts\python.exe -m pytest tests
+2026-02-16 14:28:00,685 - INFO - RUN: C:\Users\RAJASHEKAR\OneDrive\Documents\CapG_Training\Python\PT Day 15\super_calculator_ci_cd_automation_master\venv\Scripts\python.exe -m unittest discover tests
+2026-02-16 14:28:01,021 - INFO - Pipeline finished
+2026-02-16 14:36:19,555 - INFO - Pipeline started
+2026-02-16 14:36:19,556 - INFO - RUN: C:\Users\RAJASHEKAR\OneDrive\Documents\CapG_Training\Python\PT Day 15\Super Calculator with GitHub\venv\Scripts\python.exe -m pip install -r requirements.txt
+2026-02-16 14:36:26,801 - INFO - RUN: C:\Users\RAJASHEKAR\OneDrive\Documents\CapG_Training\Python\PT Day 15\Super Calculator with GitHub\venv\Scripts\python.exe -m pytest tests
+2026-02-16 14:36:27,517 - INFO - RUN: C:\Users\RAJASHEKAR\OneDrive\Documents\CapG_Training\Python\PT Day 15\Super Calculator with GitHub\venv\Scripts\python.exe -m unittest discover tests
+2026-02-16 14:36:27,745 - INFO - Pipeline finished
+2026-02-16 14:59:03,577 - INFO - Pipeline started
+2026-02-16 14:59:03,578 - INFO - RUN: C:\Users\RAJASHEKAR\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pip install -r requirements.txt
+2026-02-16 14:59:05,927 - INFO - RUN: C:\Users\RAJASHEKAR\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pytest tests
+2026-02-16 14:59:06,720 - INFO - RUN: C:\Users\RAJASHEKAR\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m unittest discover tests
+2026-02-16 14:59:06,908 - INFO - Pipeline finished
+2026-02-16 15:01:46,218 - INFO - Pipeline started
+2026-02-16 15:01:46,218 - INFO - RUN: C:\Users\RAJASHEKAR\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pip install -r requirements.txt
+2026-02-16 15:01:47,693 - INFO - RUN: C:\Users\RAJASHEKAR\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pytest tests
+2026-02-16 15:01:48,259 - INFO - RUN: C:\Users\RAJASHEKAR\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m unittest discover tests
+2026-02-16 15:01:48,440 - INFO - Pipeline finished
+2026-02-16 15:04:31,823 - INFO - Pipeline started
+2026-02-16 15:04:31,824 - INFO - RUN: C:\Users\RAJASHEKAR\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pip install -r requirements.txt
+2026-02-16 15:04:34,036 - INFO - RUN: C:\Users\RAJASHEKAR\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pytest tests
+2026-02-16 15:04:34,810 - INFO - RUN: C:\Users\RAJASHEKAR\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m unittest discover tests
+2026-02-16 15:04:34,977 - INFO - Pipeline finished
+2026-02-16 15:04:59,712 - INFO - Pipeline started
+2026-02-16 15:04:59,712 - INFO - RUN: C:\Users\RAJASHEKAR\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pip install -r requirements.txt
+2026-02-16 15:05:01,093 - INFO - RUN: C:\Users\RAJASHEKAR\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pytest tests
+2026-02-16 15:05:01,665 - INFO - RUN: C:\Users\RAJASHEKAR\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m unittest discover tests
+2026-02-16 15:05:01,861 - INFO - Pipeline finished
+2026-02-16 15:05:31,832 - INFO - Pipeline started
+2026-02-16 15:05:31,832 - INFO - RUN: C:\Users\RAJASHEKAR\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pip install -r requirements.txt
+2026-02-16 15:05:33,223 - INFO - RUN: C:\Users\RAJASHEKAR\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pytest tests
+2026-02-16 15:05:33,806 - INFO - RUN: C:\Users\RAJASHEKAR\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m unittest discover tests
+2026-02-16 15:05:33,998 - INFO - Pipeline finished
